@@ -22,4 +22,4 @@ Contribuições são bem vindas! Se você quiser contribuir para o projeto, siga
 Este projeto está licenciado sob a Licença MIT.
 
 ## Contato
-Para mais informções, entre em contato com o meu email[hermeh07@gmail.com] ou visite o meu perfil no GitHub: [https://github.com/HermehChavito]
+Para mais informções, entre em contato com o meu email [hermeh07@gmail.com] ou visite o meu perfil no GitHub: [https://github.com/HermehChavito]
