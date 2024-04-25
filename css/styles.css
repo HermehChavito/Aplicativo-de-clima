@@ -144,19 +144,3 @@ form button{
 .author{
     color: #7e7e7e;
 }
-
-/*
-For mobile phones:
-@media only screen and (max-width: 768px) {
-   
-}
-
-@media only screen and (min-width: 768px) {
-For desktop: 
-}
-
-@media only screen and (min-width: 600px) {
-For tablets:
-}
-
-*/
